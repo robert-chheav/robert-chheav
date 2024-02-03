@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 My portfolio: https://robert-chheav.netlify.app
+- 👨‍💻 My portfolio (WIP): https://robert-chheav.netlify.app
 
 - 💬 Ask me about **Online payment solutions**
 
